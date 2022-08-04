@@ -1,0 +1,9 @@
+admin: traitimquacam@gmail.com
+password: 123456
+
+
+user: conmeobeo@gmail.com
+password: 123456
+
+user1: labaotran@gmail.com
+password: 123456
